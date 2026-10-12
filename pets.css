@@ -14,22 +14,22 @@ a {
     color:blue;
 }
 .site-heading {
-    margin:0;
-    padding:10px;
-    margin-bottom:4px;
+    margin: 0;
+    padding: 10px;
+    margin-bottom: 4px;
 }
 .tagline {
-    margin:0;
-    margin-bottom:10px;
+    margin: 0;
+    margin-bottom: 10px;
 }
 .header-nav{
     background-color: #13e1da;
     padding-top: 10px;
-    padding-bottom:10px;
-    padding-left:10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
 }
 .main-content {
     background-color: #d520b1;
     padding: 10px;
-    padding-bottom:20px;
+    padding-bottom: 20px;
 }
