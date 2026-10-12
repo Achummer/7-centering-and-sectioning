@@ -1,0 +1,35 @@
+html{
+    background-color: #8065d9;
+     font-family: "Valley Sans", sans-serif;
+}
+
+.site-footer{
+    background-color: #a9abac;
+    padding: 10px;
+}
+ul{
+    margin:0;
+}
+a {
+    color:blue;
+}
+.site-heading {
+    margin:0;
+    padding:10px;
+    margin-bottom:4px;
+}
+.tagline {
+    margin:0;
+    margin-bottom:10px;
+}
+.header-nav{
+    background-color: #13e1da;
+    padding-top: 10px;
+    padding-bottom:10px;
+    padding-left:10px;
+}
+.main-content {
+    background-color: #d520b1;
+    padding: 10px;
+    padding-bottom:20px;
+}
