@@ -1,0 +1,24 @@
+html {
+    background-color: #dcf3e9;
+}
+.site-header {
+
+    background-color: #b745c2;
+}
+.wrapper {
+    max-width: 600px;
+    margin: 0 auto;
+
+}
+.site-main {
+    background-color: rgb(231, 220, 118);
+}
+.article-section {
+    background-color: #e4ab54;
+}
+.callout {
+    background-color: #f7c6c7;
+}
+.site-footer {
+    background-color: #6cf3f1;
+}
